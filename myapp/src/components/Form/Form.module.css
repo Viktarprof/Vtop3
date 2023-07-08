@@ -1,0 +1,112 @@
+.form {
+	display: flex;
+	flex-direction: column;
+}
+
+.info_user {
+	padding: 0px 0.1px 0.1px 21.2px;
+	display: grid;
+	grid-template-columns: repeat(2, auto);
+	grid-template-rows: repeat(2, 1fr);
+	align-items: center;
+	row-gap: 16.18px;
+}
+
+.select_container {
+	width: 210px;
+	height: 42px;
+	padding: 0px 0.1px 0.1px 0px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	flex-shrink: 0;
+}
+
+.container_date {
+	width: 200px;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.title_select {
+	width: 200px;
+	margin-bottom: 5.3px;
+
+	font-size: 12px;
+	font-family: Work Sans;
+	font-weight: 200;
+
+	color: #7c7c7c;
+}
+
+.date {
+	width: 270px;
+
+	display: flex;
+	justify-content: flex-end;
+	gap: 9.8px;
+}
+
+.gender_container {
+	width: 20px;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.radio_container {
+	display: flex;
+	gap: 19px;
+}
+
+.radio_container {
+	display: flex;
+	align-items: center;
+}
+
+.radio_label {
+	display: flex;
+	align-items: center;
+	margin-right: 10px;
+}
+
+.container_password {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap
+}
+
+.completele {
+	width: 200px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: flex-end;
+
+	margin: 104.3px 20.8px 0px 305.8px;
+}
+
+.errorContainer{
+	width: 100%;
+	display: flex;
+}
+.errorContainer > p{
+	width: 240px;
+}
+.warning_text{
+	color: red;
+    font-size: 10px;
+}
+
+.iconShow{
+	width: 15px;
+	height: 15px;
+	position: absolute;
+	right: 40px;
+	bottom: 5px;
+}
