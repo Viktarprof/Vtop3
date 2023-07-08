@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FormVtop3/static/css/main.7abdf77a.css",
+    "main.js": "/FormVtop3/static/js/main.86dfb9d6.js",
+    "static/media/user_logo.png": "/FormVtop3/static/media/user_logo.c64444079859005b4403.png",
+    "index.html": "/FormVtop3/index.html",
+    "main.7abdf77a.css.map": "/FormVtop3/static/css/main.7abdf77a.css.map",
+    "main.86dfb9d6.js.map": "/FormVtop3/static/js/main.86dfb9d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abdf77a.css",
+    "static/js/main.86dfb9d6.js"
+  ]
+}
